@@ -3,6 +3,7 @@ public class TestGit {
         System.out.println("hello git!!");
         System.out.println("测试idea集成git：第二个版本");
         System.out.println("the third version");
+        System.out.println("hot-fix conflict merge");
     }
 
 
